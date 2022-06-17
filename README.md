@@ -6,8 +6,8 @@ Play in Normal mode and try to complete the levels within a designated number of
 
 
 # Where is the game?
-Grab the GBA version here: https://pmprog.itch.io/luma-gba
-Grab the original C64 version here: https://shallan64.itch.io/luma
+* Grab the GBA version here: https://pmprog.itch.io/luma-gba
+* Grab the original C64 version here: https://shallan64.itch.io/luma
 
 
 # Source code
